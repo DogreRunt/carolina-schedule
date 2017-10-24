@@ -1,0 +1,16 @@
+body {
+  background-color: #73000A;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+table, th, td {
+   border: 1px solid #ffffff;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
